@@ -1,0 +1,125 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "sqlite"
+    url      = env("DATABASE_URL")
+}
+
+model Florist {
+    id            String   @id @default(cuid())
+    name          String
+    address       String
+    phoneNumber   String?
+    website       String?
+    placeId       String?  @unique
+    
+    latitude      Float?
+    longitude     Float?
+    distanceMiles Float?
+    
+    rating        Float?
+    reviewCount   Int?
+    notes         String?  // Simple text notes
+    
+    businessHours BusinessHours?
+    pricingItems  PricingItem[]
+    routeStops    RouteStop[]
+    territories   FloristTerritory[]
+    slackMessages SlackMessage[]
+    
+    createdAt     DateTime @default(now())
+    updatedAt     DateTime @updatedAt
+
+    @@index([name])
+}
+
+model BusinessHours {
+    id        String   @id @default(cuid())
+    floristId String   @unique
+    florist   Florist  @relation(fields: [floristId], references: [id], onDelete: Cascade)
+    
+    monday    String?
+    tuesday   String?
+    wednesday String?
+    thursday  String?
+    friday    String?
+    saturday  String?
+    sunday    String?
+}
+
+model PricingItem {
+    id         String   @id @default(cuid())
+    floristId  String
+    florist    Florist  @relation(fields: [floristId], references: [id], onDelete: Cascade)
+    
+    itemName   String
+    priceRange String
+}
+
+model Route {
+    id          String      @id @default(cuid())
+    name        String
+    description String?
+    stops       RouteStop[]
+    createdAt   DateTime    @default(now())
+    updatedAt   DateTime    @updatedAt
+}
+
+model RouteStop {
+    id         String   @id @default(cuid())
+    routeId    String
+    route      Route    @relation(fields: [routeId], references: [id], onDelete: Cascade)
+    floristId  String
+    florist    Florist  @relation(fields: [floristId], references: [id], onDelete: Cascade)
+    stopOrder  Int
+    notes      String?
+    
+    @@unique([routeId, stopOrder])
+}
+
+model Territory {
+    id          String             @id @default(cuid())
+    name        String
+    description String?
+    color       String?
+    florists    FloristTerritory[]
+    createdAt   DateTime           @default(now())
+    updatedAt   DateTime           @updatedAt
+}
+
+model FloristTerritory {
+    id          String    @id @default(cuid())
+    floristId   String
+    florist     Florist   @relation(fields: [floristId], references: [id], onDelete: Cascade)
+    territoryId String
+    territory   Territory @relation(fields: [territoryId], references: [id], onDelete: Cascade)
+    
+    @@unique([floristId, territoryId])
+}
+
+// Slack integration models
+model SlackMessage {
+    id          String   @id @default(cuid())
+    slackTs     String   @unique  // Slack message timestamp (unique ID)
+    channelId   String
+    userId      String
+    text        String
+    floristId   String?
+    florist     Florist? @relation(fields: [floristId], references: [id], onDelete: SetNull)
+    syncedToNote Boolean  @default(false)
+    createdAt   DateTime @default(now())
+}
+
+model SlackNotificationSubscription {
+    id          String   @id @default(cuid())
+    channelId   String
+    eventType   String   // e.g., "new_florist", "route_update", "territory_change"
+    createdAt   DateTime @default(now())
+    
+    @@unique([channelId, eventType])
+}

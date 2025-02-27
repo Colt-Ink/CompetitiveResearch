@@ -1,0 +1,526 @@
+[
+  {
+    "name": "Olive Branch Farm",
+    "address": "20135 NE 68th St, Vancouver, WA 98682, United States",
+    "placeId": "ChIJz0lzWbG7lVQRxaHqQ2VEKFQ",
+    "latitude": 45.66936,
+    "longitude": -122.4661969,
+    "distanceMiles": 20.130298821063022,
+    "rating": 4.9,
+    "reviewCount": 12,
+    "businessHours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Belle Fleur Floral Design",
+    "address": "546 Welcome Way SE, Salem, OR 97302, United States",
+    "placeId": "ChIJAQC81UUHwFQRtUsrSOE8OdE",
+    "latitude": 44.8945717,
+    "longitude": -123.0423541,
+    "distanceMiles": 52.872067814321206,
+    "rating": 5,
+    "reviewCount": 14,
+    "businessHours": {},
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Laurelhurst Florist",
+    "address": "6118 SE Belmont St Suite 101, Portland, OR 97215, United States",
+    "placeId": "ChIJwSkJDAChlVQRsAa2zZrNtKI",
+    "latitude": 45.5165586,
+    "longitude": -122.6008827,
+    "distanceMiles": 18.1649636703959,
+    "rating": 5,
+    "reviewCount": 2,
+    "businessHours": {},
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "By the Bunch Floral Alchemy",
+    "address": "*SCHEDULED PICKUP AND DELIVERY* WALKINS BY APPOINTMENT, 7042 SE Milwaukie Ave, Portland, OR 97202, United States",
+    "placeId": "ChIJG-wQ3cEKlVQRQRMWU9fZZiU",
+    "latitude": 45.4730825,
+    "longitude": -122.648526,
+    "distanceMiles": 19.549572183205186,
+    "rating": 4.6,
+    "reviewCount": 28,
+    "businessHours": {},
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Willow Garden Studio",
+    "address": "19899 SE Bornstedt Rd, Sandy, OR 97055, United States",
+    "placeId": "ChIJwXH820yFlVQRwoFv7PPt6_w",
+    "latitude": 45.3794712,
+    "longitude": -122.2700917,
+    "distanceMiles": 2.8844419651957223,
+    "rating": 5,
+    "reviewCount": 15,
+    "businessHours": {},
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Forte' Floral Artistry",
+    "address": "14222 SE McLoughlin Blvd, Milwaukie, OR 97267, United States",
+    "placeId": "ChIJIfpS88l2lVQRQGNfW6lf-1I",
+    "latitude": 45.4202082,
+    "longitude": -122.6326224,
+    "distanceMiles": 18.431801756131993,
+    "rating": 4.7,
+    "reviewCount": 20,
+    "businessHours": {},
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Table Tops Etc.",
+    "address": "15055 NE Dopp Rd, Newberg, OR 97132, United States",
+    "placeId": "ChIJefS9SI8_lVQResHNwzWrtbY",
+    "latitude": 45.3241159,
+    "longitude": -123.059548,
+    "distanceMiles": 39.718529431779594,
+    "rating": 4.9,
+    "reviewCount": 10,
+    "businessHours": {},
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Flowers Tommy Luke",
+    "address": "906 SW Taylor St, Portland, OR 97205, United States",
+    "placeId": "ChIJVaIvNecJlVQRflderwRIjuI",
+    "latitude": 45.5183556,
+    "longitude": -122.6820541,
+    "distanceMiles": 21.90604556054916,
+    "rating": 4.8,
+    "reviewCount": 105,
+    "businessHours": {
+      "monday": "8:30 AM – 4:00 PM",
+      "tuesday": "8:30 AM – 4:00 PM",
+      "wednesday": "8:30 AM – 4:00 PM",
+      "thursday": "8:30 AM – 4:00 PM",
+      "friday": "8:30 AM – 4:00 PM",
+      "saturday": "11:00 AM – 3:00 PM",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Grand Avenue Florist",
+    "address": "909 SE Yamhill St, Portland, OR 97214, United States",
+    "placeId": "ChIJ0bT6UnUKlVQR6bfexzGlsrg",
+    "latitude": 45.51596199999999,
+    "longitude": -122.6563702,
+    "distanceMiles": 20.673805453693905,
+    "rating": 4.7,
+    "reviewCount": 70,
+    "businessHours": {
+      "monday": "9:00 AM – 5:00 PM",
+      "tuesday": "9:00 AM – 5:00 PM",
+      "wednesday": "9:00 AM – 5:00 PM",
+      "thursday": "9:00 AM – 5:00 PM",
+      "friday": "9:00 AM – 5:00 PM",
+      "saturday": "9:00 AM – 5:00 PM",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "All Seasons Florist",
+    "address": "Beaverton, OR 97008, United States",
+    "placeId": "ChIJj0I_qE8MlVQRf2oMbkS7Jfg",
+    "latitude": 45.46114499999999,
+    "longitude": -122.7935536,
+    "distanceMiles": 26.385281382651225,
+    "rating": 0,
+    "reviewCount": 0,
+    "businessHours": {},
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Jakelin flowers",
+    "address": "1880 Lancaster Dr NE #125, Salem, OR 97301, United States",
+    "placeId": "ChIJ-UUHPMH_v1QRd3PNmqZ27DA",
+    "latitude": 44.9522314,
+    "longitude": -122.983371,
+    "distanceMiles": 48.04413196428225,
+    "rating": 4.2,
+    "reviewCount": 15,
+    "businessHours": {
+      "monday": "10:00 AM – 5:00 PM",
+      "tuesday": "10:00 AM – 5:00 PM",
+      "wednesday": "10:00 AM – 5:00 PM",
+      "thursday": "10:00 AM – 5:00 PM",
+      "friday": "10:00 AM – 5:00 PM",
+      "saturday": "10:00 AM – 6:00 PM",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Bella Rosa Flowers Llc",
+    "address": "1709 Chemawa Rd NE, Keizer, OR 97303, United States",
+    "placeId": "ChIJa1XsXUtVlVQRW0V0frg6rCU",
+    "latitude": 45.0016374,
+    "longitude": -123.0107859,
+    "distanceMiles": 46.85256496844462,
+    "rating": 5,
+    "reviewCount": 3,
+    "businessHours": {
+      "monday": "9:00 AM – 3:00 PM",
+      "tuesday": "9:00 AM – 3:00 PM",
+      "wednesday": "9:00 AM – 3:00 PM",
+      "thursday": "9:00 AM – 3:00 PM",
+      "friday": "9:00 AM – 3:00 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "VIP Flowers",
+    "address": "11050 SE Powell Blvd #377, Portland, OR 97266, United States",
+    "placeId": "ChIJazr0Ts6hlVQRWC6IsrOAUhE",
+    "latitude": 45.4959537,
+    "longitude": -122.5497713,
+    "distanceMiles": 15.345340392931936,
+    "rating": 4.9,
+    "reviewCount": 74,
+    "businessHours": {
+      "monday": "Closed",
+      "tuesday": "10:00 AM – 6:00 PM",
+      "wednesday": "10:00 AM – 6:00 PM",
+      "thursday": "10:00 AM – 6:00 PM",
+      "friday": "10:00 AM – 6:00 PM",
+      "saturday": "10:00 AM – 6:00 PM",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Samantha's Flowers",
+    "address": "7319 NE 137th Ave, Vancouver, WA 98682, United States",
+    "placeId": "ChIJA0XzLQWvlVQRvrVMohjGSHY",
+    "latitude": 45.6763913,
+    "longitude": -122.5313031,
+    "distanceMiles": 22.299952925302467,
+    "rating": 4.5,
+    "reviewCount": 257,
+    "businessHours": {
+      "monday": "8:00 AM – 5:00 PM",
+      "tuesday": "8:00 AM – 5:00 PM",
+      "wednesday": "8:00 AM – 5:00 PM",
+      "thursday": "8:00 AM – 5:00 PM",
+      "friday": "8:00 AM – 5:00 PM",
+      "saturday": "8:00 – 11:00 AM",
+      "sunday": "8:00 – 11:00 AM"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Lake Oswego Flowers",
+    "address": "17100 Pilkington Rd, Lake Oswego, OR 97035, United States",
+    "placeId": "ChIJmz7DKBMKlVQRZ06bnLAqDCw",
+    "latitude": 45.4017158,
+    "longitude": -122.7329795,
+    "distanceMiles": 23.33442490636011,
+    "rating": 4.8,
+    "reviewCount": 82,
+    "businessHours": {
+      "monday": "10:00 AM – 4:00 PM",
+      "tuesday": "10:00 AM – 4:00 PM",
+      "wednesday": "10:00 AM – 4:00 PM",
+      "thursday": "10:00 AM – 4:00 PM",
+      "friday": "10:00 AM – 4:00 PM",
+      "saturday": "10:00 AM – 4:00 PM",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Keizer Florist",
+    "address": "631 Chemawa Rd NE, Keizer, OR 97303, United States",
+    "placeId": "ChIJifppxvdVlVQRzFbOIcLXwAc",
+    "latitude": 44.99718379999999,
+    "longitude": -123.0255165,
+    "distanceMiles": 47.60851905655812,
+    "rating": 4.8,
+    "reviewCount": 185,
+    "businessHours": {
+      "monday": "9:00 AM – 4:00 PM",
+      "tuesday": "9:00 AM – 4:00 PM",
+      "wednesday": "9:00 AM – 4:00 PM",
+      "thursday": "9:00 AM – 4:00 PM",
+      "friday": "9:00 AM – 4:00 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Westside Florist",
+    "address": "4425 SW 109th Ave, Beaverton, OR 97005, United States",
+    "placeId": "ChIJc8pBpBgNlVQRLML1XAtWv80",
+    "latitude": 45.4881661,
+    "longitude": -122.7891354,
+    "distanceMiles": 26.437371384043388,
+    "rating": 5,
+    "reviewCount": 1,
+    "businessHours": {
+      "monday": "10:00 AM – 5:00 PM",
+      "tuesday": "10:00 AM – 5:00 PM",
+      "wednesday": "10:00 AM – 5:00 PM",
+      "thursday": "10:00 AM – 5:00 PM",
+      "friday": "10:00 AM – 5:00 PM",
+      "saturday": "9:00 AM – 2:00 PM",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Flowers by Zsuzsana",
+    "address": "969 NE Orenco Station Loop, Hillsboro, OR 97124, United States",
+    "placeId": "ChIJ7fSUbJAFlVQREK7D-L7xD08",
+    "latitude": 45.5308067,
+    "longitude": -122.9169594,
+    "distanceMiles": 33.09774224236162,
+    "rating": 4.9,
+    "reviewCount": 384,
+    "businessHours": {
+      "monday": "9:00 AM – 5:00 PM",
+      "tuesday": "9:00 AM – 5:00 PM",
+      "wednesday": "9:00 AM – 5:00 PM",
+      "thursday": "9:00 AM – 5:00 PM",
+      "friday": "9:00 AM – 5:00 PM",
+      "saturday": "10:00 AM – 3:00 PM",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Blum Design In Flowers",
+    "address": "3508 S Corbett Ave, Portland, OR 97239, United States",
+    "placeId": "ChIJE1nDxKqglVQRZZZzxgUiKbc",
+    "latitude": 45.4977227,
+    "longitude": -122.6757193,
+    "distanceMiles": 21.21032992041258,
+    "rating": 4.7,
+    "reviewCount": 24,
+    "businessHours": {
+      "monday": "9:00 AM – 5:00 PM",
+      "tuesday": "9:00 AM – 5:00 PM",
+      "wednesday": "9:00 AM – 5:00 PM",
+      "thursday": "9:00 AM – 5:00 PM",
+      "friday": "9:00 AM – 5:00 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  },
+  {
+    "name": "Little Lantern Floral LLC",
+    "address": "651 High St NE suite 160, Salem, OR 97301, United States",
+    "placeId": "ChIJtz4-s1j_v1QRREbYUKB2few",
+    "latitude": 44.9459266,
+    "longitude": -123.0345893,
+    "distanceMiles": 50.20412417437081,
+    "rating": 4.8,
+    "reviewCount": 16,
+    "businessHours": {
+      "monday": "Closed",
+      "tuesday": "11:00 AM – 5:00 PM",
+      "wednesday": "11:00 AM – 5:00 PM",
+      "thursday": "11:00 AM – 5:00 PM",
+      "friday": "11:00 AM – 5:00 PM",
+      "saturday": "11:00 AM – 5:00 PM",
+      "sunday": "Closed"
+    },
+    "pricingItems": [
+      {
+        "itemName": "Standard Bouquet",
+        "priceRange": "$25-$75"
+      },
+      {
+        "itemName": "Premium Arrangement",
+        "priceRange": "$75-$150"
+      }
+    ]
+  }
+]
